@@ -1,0 +1,2 @@
+C:\Users\90551\Desktop\MvcProje\MvcStok\MvcStok\obj\Debug\MvcStok.csproj.AssemblyReference.cache
+C:\Users\90551\Desktop\MvcProje\MvcStok\MvcStok\obj\Debug\MvcStok.csproj.CoreCompileInputs.cache
